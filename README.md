@@ -19,6 +19,9 @@ Sydney, Australia
 ### Shared Google Doc
 [https://tinyurl.com/yra38vc3](https://tinyurl.com/yra38vc3)
 
+### Workshop zip File
+[Github](https://github.com/geoluna/21-March-2022-Python-Workshop/blob/main/21-March-22-Python-Workshop.zip)
+
 ### References
 1. [Python Programming for Economics and Finance](https://python-programming.quantecon.org/intro.html)
 2. [Introduction to Python for Econometrics, Statistics and Numerical Analysis: Fourth Edition](https://www.kevinsheppard.com/teaching/python/notes/)
