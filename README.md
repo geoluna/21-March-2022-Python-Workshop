@@ -16,6 +16,8 @@ Sydney, Australia
 ### Registration
 [Eventbrite page](https://www.eventbrite.co.uk/e/a-brief-introduction-to-python-for-data-analytics-tickets-292299384327)
 
+### Shared Google Doc
+[https://tinyurl.com/yra38vc3](https://tinyurl.com/yra38vc3)
 
 ### References
 1. [Python Programming for Economics and Finance](https://python-programming.quantecon.org/intro.html)
