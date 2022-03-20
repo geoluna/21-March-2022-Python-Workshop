@@ -13,14 +13,21 @@ Sydney, Australia
 - Yuanyuan Zhao
 - Jonathon Mahon
 
+
 ### Registration
-[Eventbrite page](https://www.eventbrite.co.uk/e/a-brief-introduction-to-python-for-data-analytics-tickets-292299384327)
+- [Eventbrite page](https://www.eventbrite.co.uk/e/a-brief-introduction-to-python-for-data-analytics-tickets-292299384327)
+
+
+### Instructions
+
+1. [Install Anaconda Navigator](https://www.anaconda.com/products/individual)
+2. Workshop zip File - Download and unzip the workshop [file](https://github.com/geoluna/21-March-2022-Python-Workshop/blob/main/21-March-22-Python-Workshop.zip)
+3. Open Anaconda Navigator, Launch Jupyter Lab, Navigate to unzipped directory
+
 
 ### Shared Google Doc
 [https://tinyurl.com/yra38vc3](https://tinyurl.com/yra38vc3)
 
-### Workshop zip File
-[Github](https://github.com/geoluna/21-March-2022-Python-Workshop/blob/main/21-March-22-Python-Workshop.zip)
 
 ### References
 1. [Python Programming for Economics and Finance](https://python-programming.quantecon.org/intro.html)
