@@ -1,6 +1,3 @@
-# 21-March-2022-Python-Workshop
----
-
 # A Brief Introduction to Python for Data Analytics
 
 ### Instructor
@@ -10,6 +7,14 @@
 Department of Actuarial Studies and Business Analytics  
 Macquarie University   
 Sydney, Australia  
+
+
+### ASSISTANT INSTRUCTORS
+- Yuanyuan Zhao
+- Jonathon Mahon
+
+### Registration
+[eventbrite page](https://www.eventbrite.co.uk/e/a-brief-introduction-to-python-for-data-analytics-tickets-292299384327)
 
 
 ### References
