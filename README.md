@@ -24,6 +24,7 @@ Sydney, Australia
 2. Workshop zip File - Download and unzip the workshop [file](https://github.com/geoluna/21-March-2022-Python-Workshop/blob/main/21-March-22-Python-Workshop.zip)
 3. Open Anaconda Navigator, Launch Jupyter Lab, Navigate to unzipped directory
 
+- If having issues with Anaconda open the notebooks from Github in [Google Colab](https://colab.research.google.com/notebooks/)
 
 ### Shared Google Doc
 [https://tinyurl.com/yra38vc3](https://tinyurl.com/yra38vc3)
